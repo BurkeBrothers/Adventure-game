@@ -1,0 +1,24 @@
+{
+"User":{
+  "Bank": {
+    "Money": 0
+    },
+    
+    "Reputation": {
+      "Rep": 0
+    },
+
+    "Test": {
+      "InstalledCommands": {
+        "vpn": "",
+        "": ""
+      },
+      "GeneralCommands": {
+        "Command1": "",
+        "Command2": "",
+        "Command3": "",
+        "Command4": ""
+      }
+    }
+  }
+}
